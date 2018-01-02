@@ -1,5 +1,7 @@
 # Poverty Stoplight
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6d98feaeaa1b45ddb94223263cb974a6)](https://www.codacy.com/app/FundacionParaguaya/fp-psp-frontend?utm_source=github.com&utm_medium=referral&utm_content=alefq/fp-psp-frontend&utm_campaign=badger)
+
 Fundación Paraguaya (FP from now on) has developed a methodology called “Poverty
 Stoplight”. The Poverty Stoplight seeks to eliminate the multidimensional
 poverty that affects many families. It allows families to trace their own
